@@ -1,2 +1,2 @@
 # quiz-
-this is basic quiz in htm
+this is basic quiz in html
